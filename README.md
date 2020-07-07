@@ -109,4 +109,6 @@ data = f.readline().replace("\n","") # 줄바꿈기호 하나 제거
 - 원래는 'customerNumber, customerName, contcactLastName'... 의 하나의 string값이다.
 - 마찬가지로 customer_list에도 각각의 행이 쉼표를 기준으로 나뉘어 리스트로 저장된 값들이 들어가 있다.
 
+미완성...
+
 [참조](https://m.blog.naver.com/PostView.nhn?blogId=real_77&logNo=221200151992&proxyReferer=https:%2F%2Fwww.google.com%2F)
